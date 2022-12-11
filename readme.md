@@ -1,3 +1,3 @@
 # Git на кончиках пальцев
 ### OTUS QA JSgit
-We are developers
+Создано в рамках курса OTUS JavaScript QA Engineer
