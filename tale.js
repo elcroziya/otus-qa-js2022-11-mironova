@@ -17,3 +17,9 @@ function kolobok(player) {
             return ("Нет таких значений");
     }
 }
+
+var NewYear = function (name) { return `${name}! ${name}! ${name}!`; };
+var x = NewYear('Дед Мороз');
+console.log(x);
+var y = NewYear('Снегурочка');
+console.log(y);
